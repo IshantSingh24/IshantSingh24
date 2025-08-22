@@ -1,0 +1,22 @@
+name: Generate Pac-Man Game
+
+on:
+  schedule:
+    - cron: "0 */24 * * *" # Runs automatically every 24 hours
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate
+        uses: ishant-singh/pacman-contribution-graph@main
+        with:
+          username: IshantSingh24
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_file: output/pacman-contribution-graph.svg
