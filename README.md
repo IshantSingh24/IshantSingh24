@@ -1,8 +1,22 @@
-<h1 align="left">👋 Hello there! I'm Ishant Singh.            <br>✨Welcome to my profile! 🚀</h1>
+<h1 align="center">👋 Hello there! I'm Ishant Singh.            <br>✨Welcome to my profile! 🚀</h1>
 
 ###
 
 <div align="center">
+  <img height="400" src="https://i.redd.it/bpxxqqvps4h91.gif"  />
+</div>
+
+###
+
+<h4 align="left">🧠 Machine Learning & Data Scientist<br>✨ Gen AI Enthusiast<br>📚 Currently learning Gen AI and Agentic AI<br>💻 Proficient in Machine Learning and Deep Learning<br>🤝 Open to collaborating on interesting projects!</h4>
+
+###
+
+<img align="right" height="300" src="https://i.gifer.com/origin/eb/eb138e90452c9fd1fbc662360b646ff6_w200.gif"  />
+
+###
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IshantSingh24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -33,16 +47,10 @@
 
 <br clear="both">
 
-<img align="left" height="250" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
-
-###
-
-<img align="right" height="250" src="https://i.gifer.com/origin/eb/eb138e90452c9fd1fbc662360b646ff6_w200.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/IshantSingh24/IshantSingh24/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshantSingh24/IshantSingh24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshantSingh24/IshantSingh24/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IshantSingh24/IshantSingh24/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
