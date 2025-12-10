@@ -12,10 +12,9 @@
 
 <div align="left">
   <ul>
-    <li>🧠 Machine Learning & Data Scientist</li>
+    <li>🧠 AIML Engineer</li>
     <li>✨ Gen AI Enthusiast</li>
-    <li>📚 Currently learning Gen AI and Agentic AI</li>
-    <li>💻 Proficient in Machine Learning and Deep Learning</li>
+    <li>📚 Currently learning multiple Agentic AI Frameworks</li>
     <li>🤝 Open to collaborating on interesting projects!</li>
   </ul>
 </div>
